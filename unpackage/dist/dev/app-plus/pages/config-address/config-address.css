@@ -1,0 +1,49 @@
+
+.path-list[data-v-adc07cb4] {
+	padding: 0 0.625rem;
+}
+.path-item[data-v-adc07cb4] {
+	padding: 0.3125rem;
+	border-bottom: 0.125rem solid #cccccc;
+	height: 2.5rem;
+}
+.item-main[data-v-adc07cb4] {
+	display: flex;
+	align-items: center;
+}
+.item-name[data-v-adc07cb4] {
+	padding: 0 0.3125rem;
+	font-size: 0.9375rem;
+}
+.active[data-v-adc07cb4] {
+	background-color: #49bdfb;
+	color: #ffffff;
+	border-radius: 0.8125rem;
+	font-size: 0.9375rem;
+	text-align: center;
+	width: 2.5rem;
+}
+.add-path[data-v-adc07cb4] {
+	padding: 0.625rem 0;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+.add-path-btn[data-v-adc07cb4] {
+	border: 0.0625rem solid #49bdfb;
+	color: #49bdfb;
+	border-radius: 0.9375rem;
+	padding: 0.1875rem 1.875rem;
+}
+.item-details-address[data-v-adc07cb4] {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	word-break: break-all;
+	position: relative;
+	left: 0.3125rem;
+	width: 18.75rem;
+	font-size: 0.75rem;
+}

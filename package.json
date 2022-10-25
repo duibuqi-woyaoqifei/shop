@@ -1,0 +1,20 @@
+{
+	"id": "DaBaieX-comp-select-address",
+	"displayName": "省市区地址选择",
+	"version": "1.0.0",
+	"description": "省市区三级联动地址选择组件，基于 uniapp 内置的 picker 组件开发。平台差异可以参考：picker 组件：https://uniapp.dcloud.net.cn/component/pi",
+	"keywords": [
+		"省市区地址选择、省市区、地址选择"
+	],
+	"dcloudext": {
+		"category": [
+			"前端组件",
+			"通用组件"
+		]
+	},
+	"dependencies": {
+		"@alicloud/dysmsapi20170525": "^2.0.22",
+		"mpvue-citypicker": "^1.0.6",
+		"pinia": "^2.0.23"
+	}
+}

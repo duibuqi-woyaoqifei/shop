@@ -1,0 +1,83 @@
+/* 全局样式文件 */
+
+/* 默认字体颜色 */
+.f-color {
+	color: #636263;
+}
+
+/* 选中字体颜色 */
+.f-active-color {
+	color: #49bdfb;
+}
+
+/* 背景颜色 */
+.bg-color {
+	background-color: #42b7fb;
+}
+
+.line {
+	width: 100%;
+	height: 4rpx;
+	background-color: rgba(176, 168, 185, .2);
+	margin: 10rpx 0;
+}
+
+@font-face {
+	font-family: "iconfont";
+	/* Project id 3669605 */
+	src: url('static/font/iconfont.woff2') format('woff2'),
+		url('static/font/iconfont.woff') format('woff'),
+		url('static/font/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 36rpx;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add-cart:before {
+	content: "\e742";
+}
+
+.icon-cart-full:before {
+	content: "\e747";
+}
+
+.icon-cart-Empty:before {
+	content: "\e748";
+}
+
+.icon-arrow-right:before {
+	content: "\e743";
+}
+
+.icon-arrow-left:before {
+	content: "\e745";
+}
+
+.icon-arrow-up:before {
+	content: "\e746";
+}
+
+.icon-arrow-down:before {
+	content: "\e7b2";
+}
+
+.icon-ashbin:before {
+	content: "\e744";
+}
+
+.icon-more:before {
+	content: "\e679";
+}
+
+.icon-search:before {
+	content: "\e67d";
+}
+
+.icon-map:before {
+	content: "\e758";
+}

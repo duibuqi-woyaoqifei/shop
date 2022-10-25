@@ -1,0 +1,1 @@
+<view class="uni-section"><view class="uni-section-header" nvue><view class="uni-section__content"><text class="{{(b && 'distraction') + ' ' + 'uni-section__content-title'}}" style="{{'color:' + c}}">{{a}}</text><text a:if="{{d}}" class="uni-section__content-sub">{{e}}</text></view></view><view style="{{'padding:' + f}}"><slot/></view></view>

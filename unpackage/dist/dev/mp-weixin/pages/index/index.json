@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "百年奥莱",
+  "navigationBarBackgroundColor": "#fff",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "index-swiper": "../../components/index/recommend/IndexSwiper",
+    "recommend": "../../components/index/recommend/Recommend",
+    "guess-you": "../../components/common/GuessYou",
+    "product-list": "../../components/common/ProductList",
+    "banner": "../../components/index/outdoors/Banner",
+    "icons": "../../components/index/outdoors/Icons",
+    "brands": "../../components/index/outdoors/Brands",
+    "hot-sale": "../../components/index/outdoors/HotSale",
+    "store": "../../components/index/outdoors/Store",
+    "uni-load-more": "../../uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "uni-section": "../../components/uni-section/uni-section"
+  }
+}

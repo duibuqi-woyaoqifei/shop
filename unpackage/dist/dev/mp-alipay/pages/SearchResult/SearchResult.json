@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "",
+  "pullRefresh": false,
+  "titleBarColor": "#fff",
+  "usingComponents": {
+    "shop-list": "../../components/common/ShopList"
+  }
+}

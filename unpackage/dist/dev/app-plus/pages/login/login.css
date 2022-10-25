@@ -1,0 +1,133 @@
+
+/*  其他登录方式  */
+.login-other[data-v-b4d1e3fa] {
+	padding: 3.125rem 0;
+}
+.other-text[data-v-b4d1e3fa] {
+	display: flex;
+	padding: 1.5625rem 0;
+}
+.other-text uni-view[data-v-b4d1e3fa] {
+	line-height: 0;
+	padding: 0 0.3125rem;
+}
+.other-text[data-v-b4d1e3fa]:after {
+	flex: 1;
+	content: '';
+	height: 0.0625rem;
+	background-color: #cccccc;
+}
+.other-text[data-v-b4d1e3fa]::before {
+	flex: 1;
+	content: '';
+	height: 0.0625rem;
+	background-color: #cccccc;
+}
+.other[data-v-b4d1e3fa] {
+	display: flex;
+	justify-content: space-around;
+}
+.other-item[data-v-b4d1e3fa] {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.other-item uni-image[data-v-b4d1e3fa] {
+	width: 2.5rem;
+	height: 2.5rem;
+}
+/*  其他登录方式  end  */
+
+
+.login[data-v-b237504c] {
+	background: url('../../static/img/loginBGC.jpg') no-repeat fixed center;
+}
+.login-tel[data-v-b237504c] {
+	width: 100vw;
+	height: 100vh;
+}
+.tel-main[data-v-b237504c] {
+	padding: 0 0.625rem;
+}
+.close[data-v-b237504c] {
+	position: fixed;
+	top: 1.25rem;
+	left: 1.25rem;
+	font-size: 1.875rem;
+	font-weight: 200;
+	color: #4b4453;
+	width: 1.5625rem;
+	height: 1.5625rem;
+	text-align: center;
+	line-height: 1.5625rem;
+	z-index: 999;
+}
+.logo[data-v-b237504c] {
+	padding-bottom: 3.125rem;
+	display: flex;
+	justify-content: center;
+}
+.logo-img[data-v-b237504c] {
+	margin-top: 9.375rem;
+	width: 6.25rem;
+	height: 6.25rem;
+}
+.tel[data-v-b237504c] {
+	width: 100%;
+	height: 2.5rem;
+	line-height: 2.5rem;
+	text-align: center;
+	color: #ffffff;
+	background-color: #49bdfb;
+	border-radius: 1.25rem;
+}
+.login-go[data-v-b237504c] {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 0.9375rem;
+}
+.go-down[data-v-b237504c] {
+	position: absolute;
+	bottom: 0.625rem;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.go-up[data-v-b237504c] {
+	position: absolute;
+	top: 0.625rem;
+	transform: translateX(-0.625rem);
+}
+.login-go-text[data-v-b237504c] {
+	width: 23.4375rem;
+	text-align: center;
+}
+/*第二*/
+.close-center[data-v-b237504c] {
+	display: flex;
+}
+.login-from[data-v-b237504c] {
+	padding-top: 12.5rem;
+}
+.login-user[data-v-b237504c] {
+	font-size: 1rem;
+	padding: 0.3125rem 0;
+	display: flex;
+	align-items: center;
+	border-bottom: 0.0625rem solid #f7f7f7;
+}
+.user-text[data-v-b237504c] {
+	padding-right: 0.3125rem;
+}
+.login-quick[data-v-b237504c] {
+	display: flex;
+	justify-content: space-between;
+	padding: 0.625rem 0;
+}
+.reminder[data-v-b237504c] {
+	color: #b0a8b9;
+	padding: 0.625rem 0;
+	text-align: center;
+}

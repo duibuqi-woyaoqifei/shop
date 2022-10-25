@@ -1,0 +1,14 @@
+
+.card.data-v-cfcdc7be{
+		padding: 20rpx 0;
+		display: flex;
+		justify-content: center;
+		font-weight: bold;
+}
+.guess-you.data-v-cfcdc7be{
+		padding:0 20rpx;
+		font-size: 32rpx;
+		color: #4B4453;
+		letter-spacing: 10rpx;
+		margin-left: 10rpx;
+}

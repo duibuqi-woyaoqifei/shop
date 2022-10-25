@@ -1,0 +1,1 @@
+<view class="hotSale"><guess-you wx:if="{{a}}" u-i="1abf623c-0" bind:__l="__l" u-p="{{a}}"></guess-you><product-list wx:if="{{b}}" u-i="1abf623c-1" bind:__l="__l" u-p="{{b}}"></product-list></view>

@@ -1,0 +1,37 @@
+
+.search-item {
+	margin-top: 0.625rem;
+	color: #636263;
+}
+.search-title {
+	margin-left: 0.625rem;
+	font-size: 0.875rem;
+	font-weight: bold;
+	display: flex;
+}
+.search-content {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 0.3125rem;
+}
+.search-content-item {
+	text-align: center;
+	height: 1.875rem;
+	background-color: rgba(176,168,185,.5);
+	margin: 0.3125rem 0.46875rem;
+	line-height: 1.875rem;
+	border-radius: 0.9375rem;
+	font-size: 0.90625rem;
+	padding-left: 0.78125rem;
+	padding-right: 0.78125rem;
+}
+.icon-ashbin {
+	position: absolute;
+	right: 0.3125rem;
+	font-size: 1.25rem;
+}
+.noSearched {
+	margin: 0.3125rem auto;
+	text-align: center;
+}

@@ -1,0 +1,30 @@
+
+.login-tel[data-v-1843a89c] {
+	width: 100vw;
+	height: 100vh;
+}
+.tel-main[data-v-1843a89c] {
+	padding: 0 0.625rem;
+}
+.login-from[data-v-1843a89c] {
+	padding: 0.9375rem 0;
+}
+.login-user[data-v-1843a89c] {
+	font-size: 1rem;
+	padding: 0.3125rem 0;
+	display: flex;
+	align-items: center;
+	border-bottom: 0.0625rem solid #f7f7f7;
+}
+.user-text[data-v-1843a89c] {
+	padding-right: 0.3125rem;
+}
+.tel[data-v-1843a89c] {
+	width: 100%;
+	height: 2.5rem;
+	line-height: 2.5rem;
+	text-align: center;
+	color: #ffffff;
+	background-color: #49bdfb;
+	border-radius: 1.25rem;
+}

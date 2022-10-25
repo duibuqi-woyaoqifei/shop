@@ -1,0 +1,17 @@
+
+.config-item[data-v-11ea80f4] {
+	display: flex;
+	justify-content: space-between;
+	padding: 0.625rem 0 0.625rem 0.625rem;
+	border-bottom: 0.0625rem solid #cccccc;
+}
+.config-mark[data-v-11ea80f4] {
+	padding-right: 0.625rem;
+}
+.quit[data-v-11ea80f4] {
+	background-color: #49bdfb;
+	width: 100%;
+	line-height: 2.5rem;
+	color: #fff;
+	text-align: center;
+}

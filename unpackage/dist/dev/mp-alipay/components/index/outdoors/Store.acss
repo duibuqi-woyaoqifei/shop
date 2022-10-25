@@ -1,0 +1,16 @@
+
+.store.data-v-ffc5077e {
+		margin-top: 20rpx;
+}
+.store-item-img-big.data-v-ffc5077e {
+		width: 100%;
+		height: 350rpx;
+}
+.scroll-view.data-v-ffc5077e {
+		width: 100%;
+		white-space: nowrap;
+}
+.scroll-content.data-v-ffc5077e {
+		display: inline-block;
+		font-size: 28rpx;
+}

@@ -1,0 +1,33 @@
+
+.search-item {
+	margin-top: 20rpx;
+	color: #636263;
+}
+.search-title {
+	margin-left: 20rpx;
+	font-size: 28rpx;
+	font-weight: bold;
+	display: flex;
+}
+.search-content {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	margin-top: 10rpx;
+}
+.search-content-item {
+	text-align: center;
+	height: 60rpx;
+	background-color: rgba(176,168,185,.5);
+	margin: 10rpx 15rpx;
+	line-height: 60rpx;
+	border-radius: 30rpx;
+	font-size: 29rpx;
+	padding-left: 25rpx;
+	padding-right: 25rpx;
+}
+.icon-ashbin {
+	position: absolute;
+	right: 10rpx;
+	font-size: 40rpx;
+}

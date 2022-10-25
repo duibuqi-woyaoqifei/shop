@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "guess-you": "../../common/GuessYou",
+    "product-list": "../../common/ProductList"
+  }
+}
